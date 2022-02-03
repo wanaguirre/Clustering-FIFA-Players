@@ -130,5 +130,5 @@ dmypy.json
 
 # Self
 data/
-.cfg
+*config.py
 *.cfg
