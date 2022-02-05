@@ -70,7 +70,7 @@ For non-football enthusiasts, you can check out Wiki website for more clarificat
     - Data visualization: Correlation Heatmap, Histograms and Box plots to check all the features (Distributions and Outliers)
   
 <p align="center">
-<image src="Notebook/images/1.jpg"/>
+<image src="Notebooks/images/1.jpg"/>
 </p>
 
     
@@ -87,25 +87,33 @@ For non-football enthusiasts, you can check out Wiki website for more clarificat
 #### Elbow Method
 
 <p align="center">
-<image src="Notebook/images/2.png"/>
+<image src="Notebooks/images/2.png"/>
 </p>
 
 #### Silhouette Method
 
 <p align="center">
-<image src="Notebook/images/3.png"/>
+<image src="Notebooks/images/3.png"/>
+</p>
+
+The Silhouette Coefficient is calculated using the mean intra-cluster distance (a) and the mean nearest-cluster distance (b) for each sample. The Silhouette Coefficient for a sample is (b - a) / max(a, b). In other words, the higher the Silhouette score, the better the clusters are defined.
+By analysing both Elbow and Silhouette Methods we can see that best choice is 2 clusters as expected. But as we need something more we would go for the next best which will be 4 clusters.
+Try to make sense of the clusters formed using the current feature space.
+
+<p align="center">
+<image src="Notebooks/images/4.png"/>
 </p>
 
 #### Scatter plot with our 4 clusters selected
 
 <p align="center">
-<image src="Notebook/images/4.png"/>
+<image src="Notebooks/images/4.png"/>
 </p>
 
 #### Sankey Diagram
 
 <p align="center">
-<image src="Notebook/images/5.png"/>
+<image src="Notebooks/images/5.png"/>
 </p>
 
 ### Results
