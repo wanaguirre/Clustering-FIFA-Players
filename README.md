@@ -73,6 +73,7 @@ For non-football enthusiasts, you can check out Wiki website for more clarificat
 <image src="Notebooks/images/1.jpg"/>
 </p>
 
+- From the above visual methods, we can clearly identify obvious cluster consisting of Goalkeepers. But any further clustering seems difficult.
     
   - **Unsuperviced Machine Learning, K-Means Algorithm:**
     - Create a pipeline to scale the data and apply the K-Means method.
@@ -87,33 +88,35 @@ For non-football enthusiasts, you can check out Wiki website for more clarificat
 #### Elbow Method
 
 <p align="center">
-<image src="Notebooks/images/2.png"/>
+<image src="Notebooks/images/2.jpg"/>
 </p>
+
+- With this extensive approach, it seems that 4 is a better number of clusters.
 
 #### Silhouette Method
 
 <p align="center">
-<image src="Notebooks/images/3.png"/>
+<image src="Notebooks/images/3.jpg"/>
 </p>
 
-The Silhouette Coefficient is calculated using the mean intra-cluster distance (a) and the mean nearest-cluster distance (b) for each sample. The Silhouette Coefficient for a sample is (b - a) / max(a, b). In other words, the higher the Silhouette score, the better the clusters are defined.
-By analysing both Elbow and Silhouette Methods we can see that best choice is 2 clusters as expected. But as we need something more we would go for the next best which will be 4 clusters.
-Try to make sense of the clusters formed using the current feature space.
+- The Silhouette Coefficient is calculated using the mean intra-cluster distance (a) and the mean nearest-cluster distance (b) for each sample. The Silhouette Coefficient for a sample is (b - a) / max(a, b). In other words, the higher the Silhouette score, the better the clusters are defined.
+- By analysing both Elbow and Silhouette Methods we can see that best choice is 2 clusters as expected. But as we need something more we would go for the next best which will be 4 clusters.
+- Try to make sense of the clusters formed using the current feature space.
 
 <p align="center">
-<image src="Notebooks/images/4.png"/>
+<image src="Notebooks/images/4.jpg"/>
 </p>
 
 #### Scatter plot with our 4 clusters selected
 
 <p align="center">
-<image src="Notebooks/images/4.png"/>
+<image src="Notebooks/images/4.jpg"/>
 </p>
 
 #### Sankey Diagram
 
 <p align="center">
-<image src="Notebooks/images/5.png"/>
+<image src="Notebooks/images/5.jpg"/>
 </p>
 
 ### Results
