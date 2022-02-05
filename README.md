@@ -116,6 +116,8 @@ For non-football enthusiasts, you can check out Wiki website for more clarificat
 
 #### Sankey Diagram
 
+A Sankey diagram is a visualization tool used to depict a flow from one set of values to another. In our case, we want to show how our player's preferred position groups them into our clusters.
+
 <p align="center">
 <image src="Notebooks/images/6.jpg" width=700px/>
 </p>
