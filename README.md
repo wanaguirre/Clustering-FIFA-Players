@@ -70,7 +70,7 @@ For non-football enthusiasts, you can check out Wiki website for more clarificat
     - Data visualization: Correlation Heatmap, Histograms and Box plots to check all the features (Distributions and Outliers)
   
 <p align="center">
-<image src="Notebooks/images/1.jpg"/>
+<image src="Notebooks/images/1.jpg" width=700px/>
 </p>
 
 - From the above visual methods, we can clearly identify obvious cluster consisting of Goalkeepers. But any further clustering seems difficult.
@@ -88,7 +88,7 @@ For non-football enthusiasts, you can check out Wiki website for more clarificat
 #### Elbow Method
 
 <p align="center">
-<image src="Notebooks/images/2.jpg"/>
+<image src="Notebooks/images/2.jpg" width=700px/>
 </p>
 
 - With this extensive approach, it seems that 4 is a better number of clusters.
@@ -96,7 +96,7 @@ For non-football enthusiasts, you can check out Wiki website for more clarificat
 #### Silhouette Method
 
 <p align="center">
-<image src="Notebooks/images/3.jpg"/>
+<image src="Notebooks/images/3.jpg" width=700px/>
 </p>
 
 - The Silhouette Coefficient is calculated using the mean intra-cluster distance (a) and the mean nearest-cluster distance (b) for each sample. The Silhouette Coefficient for a sample is (b - a) / max(a, b). In other words, the higher the Silhouette score, the better the clusters are defined.
@@ -110,13 +110,14 @@ For non-football enthusiasts, you can check out Wiki website for more clarificat
 #### Scatter plot with our 4 clusters selected
 
 <p align="center">
-<image src="Notebooks/images/4.jpg"/>
+<image src="Notebooks/images/4.jpg" width=700px/>
+
 </p>
 
 #### Sankey Diagram
 
 <p align="center">
-<image src="Notebooks/images/5.jpg"/>
+<image src="Notebooks/images/5.jpg" width=700px/>
 </p>
 
 ### Results
