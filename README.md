@@ -104,20 +104,20 @@ For non-football enthusiasts, you can check out Wiki website for more clarificat
 - Try to make sense of the clusters formed using the current feature space.
 
 <p align="center">
-<image src="Notebooks/images/4.jpg"/>
+<image src="Notebooks/images/4.jpg" width=700px/>
 </p>
 
 #### Scatter plot with our 4 clusters selected
 
 <p align="center">
-<image src="Notebooks/images/4.jpg" width=700px/>
+<image src="Notebooks/images/5.jpg" width=700px/>
 
 </p>
 
 #### Sankey Diagram
 
 <p align="center">
-<image src="Notebooks/images/5.jpg" width=700px/>
+<image src="Notebooks/images/6.jpg" width=700px/>
 </p>
 
 ### Results
