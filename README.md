@@ -25,38 +25,10 @@ Based on these characteristics we are going to predict which is their ideal posi
 For non-football enthusiasts, you can check out Wiki website for more clarification about football player's positions. [Find type and meaning of positions here](https://en.wikipedia.org/wiki/Association_football_positions).
 
 - id
-- acceleration
-- aggression
-- agility
-- balance
-- ball_control
-- composure
-- crossing
-- curve
-- dribbling
-- finishing free_kick_accuracy
-- gk_diving
-- gk_handling
-- gk_kicking
-- gk_positioning
-- gk_reflexes
-- heading_accuracy
-- interceptions
-- jumping
-- long_passing
-- long_shots
-- marking',penalties
-- positioning
-- reactions
-- short_passing
-- shot_power
-- sliding_tackle
-- sprint_speed
-- stamina
-- standing_tackle
-- strength
-- vision
-- volleys
+
+- **Player characteristics**: acceleration, aggression, agility, balance, ball_control, composure, crossing, curve, dribbling, finishing free_kick_accuracy, gk_diving, gk_handling, gk_kicking, gk_positioning, gk_reflexes, heading_accuracy, interceptions, jumping, long_passing, long_shots, marking',penalties, positioning, reactions, short_passing, shot_power, sliding_tackle, sprint_speed. stamina, standing_tackle, strength, vision, volleys.
+
+- **Player positions**: CAM, CB, CDM, CF, CM, ID, LAM, LB, LCB, LCM, LDM, LF, LM, LS, LW, LWB, Preferred Positions, RAM, RB, RCB, RCM, RDM, RF, RM, RS, RW, RWB, ST.
 
 ---
 ### Methodology
