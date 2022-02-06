@@ -1,4 +1,4 @@
-This repository is just to show and teach some of Unsupervised ML methods used to solve Clustering problems.
+This repository is just to show and teach some Unsupervised ML methods used to solve Clustering problems.
 
 # Clustering-FIFA-Players
 
